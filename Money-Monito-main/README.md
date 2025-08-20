@@ -136,8 +136,8 @@ We welcome contributions to improve **Money Monitor**! Follow these steps:
 
 For any questions or feedback, please reach out:
 
-- **Name**: Bhadani Tirth
-- **Email**: bhadanitirth@gmail.com
+- **Name**: Darshan Sheta
+- **Email**: shetadarshan61@gmail.com
 
-- **Name**: Agrawal Gaurang
-- **Email**: agrawalgaurang5425@gmail.com
+- **Name**: Jay Thummar
+- **Email**: jaythummar2005@gmail.com
